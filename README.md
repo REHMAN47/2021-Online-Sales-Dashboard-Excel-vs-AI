@@ -96,6 +96,21 @@ File Description
 - 🚚 **Most Used Shipment Provider:** Royal Mail
 - 📦 **Most Returned Item:** Office Chair
 
+## My Experience with This project 
+
+This project gave me hands-on experience comparing AI-powered tools with traditional manual methods — and I gained a lot of practical insight:
+
+- ⚖️ While Excel provides precise control, it demands more manual setup — Quadratic removes that overhead by automating much of the logic.
+- 🧠 Excel forces you to think through every calculation, which is great for learning — while Quadratic lets you focus more on the big picture.
+- ⚡ Quadratic is ideal when time is tight and insights are needed fast — but Excel shines when data accuracy and complex customization matter.
+- 🔍 With Excel, you build everything from the ground up — in Quadratic, AI does the heavy lifting so you can validate and adjust quickly.
+- 🎯 Excel taught me how to engineer dashboards manually, while Quadratic showed me how fast AI can generate usable results with minimal input.
+- 💡 Both tools served different purposes: Excel gave me mastery over structure, Quadratic gave me momentum to ideate rapidly.
+- 🧩 Excel requires you to connect all the pieces — Quadratic offers pre-built insights, which is great for starting fast or for non-analysts.
+
+Each approach had its strengths — and together, they helped me think more flexibly about how to approach future data projects depending on timeline, audience, and tool availability.
+
+
 
 ## 🚀 How to Explore This Project
 
@@ -122,7 +137,7 @@ If you liked this project, you might also enjoy:
 I'm always open to feedback, ideas, or opportunities!
 
 - 📧 Email: rehmanshaik324@gmail
-- 💼 LinkedIn: [rehmansk](www.linkedin.com/in/rehmansk)
+- 💼 LinkedIn: [rehmansk](https://www.linkedin.com/in/rehmansk/)
 ```
 
 
