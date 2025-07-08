@@ -132,12 +132,10 @@ If you liked this project, you might also enjoy:
 
 
 ## 🔗 Contact Info
-
-```markdown
 I'm always open to feedback, ideas, or opportunities!
 
-- 📧 Email: rehmanshaik324@gmail
+
+- 📧 Email : **rehmanshaik324@gmail**
 - 💼 LinkedIn: [rehmansk](https://www.linkedin.com/in/rehmansk/)
-```
 
 
