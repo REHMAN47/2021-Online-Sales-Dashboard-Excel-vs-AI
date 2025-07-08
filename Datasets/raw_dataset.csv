@@ -1,4 +1,4 @@
-﻿InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country,Discount,PaymentMethod,ShippingCost,Category,SalesChannel,ReturnStatus,ShipmentProvider,WarehouseLocation,OrderPriority
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country,Discount,PaymentMethod,ShippingCost,Category,SalesChannel,ReturnStatus,ShipmentProvider,WarehouseLocation,OrderPriority
 221958,SKU_1964,White Mug,38,01-01-2020 00:00,1.71,37039,Australia,0.47,Bank Transfer,10.79,Apparel,In-store,Not Returned,UPS,London,Medium
 771155,SKU_1241,White Mug,18,01-01-2020 01:00,41.25,19144,Spain,0.19,paypall,9.51,Electronics,Online,Not Returned,UPS,Rome,Medium
 231932,SKU_1501,Headphones,49,01-01-2020 02:00,29.11,50472,Germany,0.35,Bank Transfer,23.03,Electronics,Online,Returned,UPS,Berlin,High

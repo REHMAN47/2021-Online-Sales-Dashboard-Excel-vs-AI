@@ -1,4 +1,4 @@
-﻿InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country,Discount,PaymentMethod,ShippingCost,Category,SalesChannel,ReturnStatus,ShipmentProvider,WarehouseLocation,OrderPriority,Sales,DiscountAmount,AlmostTotalRevenue,Returned,DOW,TotalRevenue
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country,Discount,PaymentMethod,ShippingCost,Category,SalesChannel,ReturnStatus,ShipmentProvider,WarehouseLocation,OrderPriority,Sales,DiscountAmount,AlmostTotalRevenue,Returned,DOW,TotalRevenue
 665158,SKU_1770,T-shirt,8,10-01-2021,59.79,46446,Germany,0.33,Bank Transfer,16.57,Furniture,In-store,Not Returned,DHL,Berlin,Medium,478.32,157.8456,320.4744,0,Sunday,337.0444
 353017,SKU_1929,T-shirt,44,10-01-2021,73.18,89756,United Kingdom,0.5,Credit Card,13.95,Furniture,In-store,Not Returned,FedEx,London,High,3219.92,1609.96,1609.96,0,Sunday,1623.91
 751824,SKU_1070,Office Chair,44,10-01-2021,7.97,55912,Portugal,0.05,Credit Card,29.56,Stationery,In-store,Not Returned,DHL,Rome,Low,350.68,17.534,333.146,0,Sunday,362.706

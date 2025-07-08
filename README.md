@@ -25,7 +25,7 @@ File Description
 - Dashboard built manually in **Excel**
     - Check it out here : [excel_dashboard](https://1drv.ms/x/c/b4d80ab29e72285d/EZQ2ee4GwcZEkDldapk6mQcBuuPdH-uf1IZ4Lhw-DRroPA?e=Ga9rJX)   
 - Raw dataset and Cleaned Dataset   
-    - Check them out here : [dataset](/datasets/)
+    - Check them out here : [datasets](/datasets/)
 
 
 
