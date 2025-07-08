@@ -10,19 +10,20 @@ Explore how AI-assisted tools compare to traditional spreadsheet methods in dash
 ## Quick Overview of the Two Dashboards
 
 ### Excel Dashboard                                         
-![alt image](/Dashboard%20Images/online_sales_dashboard.png)
+![alt image](/dashboard%20Images/online_sales_dashboard.png)
 
 ### Quadratic Dashboard
-![Alt Image](/Dashboard%20Images/online_sales_dashboard(AI).png)
+![Alt Image](/dashboard%20Images/online_sales_dashboard(AI).png)
 
 
 ## 📁 Files Included
 
 File Description
 - Dashboard built with **Quadratic (AI)** 
-    - Check it out here : [ai_dashboard](/ai_dashboard/)
+    - Check it out here : [ai_dashboard](https://app.quadratichq.com/file/7d10dee7-470d-4f52-a283-53ba04b69704)
+
 - Dashboard built manually in **Excel**
-    - Check it out here : [excel_dashboard](/excel_dashboard/)   
+    - Check it out here : [excel_dashboard](https://1drv.ms/x/c/b4d80ab29e72285d/EZQ2ee4GwcZEkDldapk6mQcBuuPdH-uf1IZ4Lhw-DRroPA?e=Ga9rJX)   
 - Raw dataset and Cleaned Dataset   
     - Check them out here : [datasets](/datasets/)
 
